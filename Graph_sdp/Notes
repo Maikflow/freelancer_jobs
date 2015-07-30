@@ -1,0 +1,12 @@
+Nodes of the are words. 
+They contain data from 4 first columns 
+(1 - word number in the sentence, 
+ 2 - word form, 
+ 3 - word initial form (for example say for said), 
+ 4 - part of speech tag). 
+ But we need only 2nd to be seen on the graph node.
+
+Edges are done with the information from 6 to the last one columns. 
+If there is a plus sign in the 6 column, then we need to draw edges from it to the nodes that have some comment in 7 to the last columns
+
+If there is more than one node with incoming edges (pluses in 6 column) nodes depending on the first one (number from 1 column) are marked in the 7th column, on the second one in th 8th column and so on

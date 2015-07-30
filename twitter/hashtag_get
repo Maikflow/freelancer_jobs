@@ -1,0 +1,6 @@
+from bs4 import BeautifulSoup
+import urllib2
+
+url = urllib2.urlopen('https://twitter.com/search?f=realtime&q=%23ep2014%20since%3A2014-01-31%20until%3A2014-07-01&src=typd')
+soup = BeautifulSoup(url)
+print soup.prettify()

@@ -1,0 +1,18 @@
+(10 points) In this assignment you will use the `turtle` python module to draw a snowman. You may NOT use the Turtle.circle function to draw circles.
+
+Snowman description:
+
+The outline of the snowman should be in black.
+The snowman’s body should be made of 3 circles.
+Each circle should be centered above the one below it (except the bottom circle, which can be located anywhere).
+There should be no gap between the circles.
+Give the snowman eyes, a nose and four buttons (a hat is optional).
+you can use the dot() function or stamp() function for eyes and buttons
+you can draw a small triangle (or dot) for the nose
+you should increase the width of turtle before using the dot function. use the width() function to set the width of turtle.
+Optional parts (not required, but can get you two bonus points if done):
+
+The snowman should be on a blue background, and should be drawn filled with white.
+You can include two stick-arms and at least two fingers on each hand.
+Draw some trees, simply draw green triangle with brown rectangle as stem.
+Coloring of different items: buttons, eyes, nose, hat.

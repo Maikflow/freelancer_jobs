@@ -1,0 +1,7 @@
+def extractTerms(filelist, corpusTerms):
+    """extract term frequency dictionary from filelist
+
+cfd = {}
+tfds = extractTerms(['file1','file2','file3'], cfd)
+
+

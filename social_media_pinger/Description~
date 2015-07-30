@@ -1,0 +1,14 @@
+Descripción del proyecto:
+
+A clearly documented python script to monitor FB likes,
+Twitter followers, and Youtube channel subscribers and 
+individual video views.
+
+Details:
+a. Script takes a csv file with four columns: uniq_id, account_handles, 
+social_media (Twitter, FB, Youtube), frequency_of_scraping (No. of times/hr).
+b. It handles errors gracefully - server not available etc.
+- Tries again after some time.
+- It writes errors to a log file - kind of error, time_stamp.
+c. Uses the Twitter, FB, or Youtube API where available.
+d. Outputs a csv that adds to the input_file, a column for each time. 

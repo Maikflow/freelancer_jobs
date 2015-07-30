@@ -1,0 +1,12 @@
+Project Description:
+
+I need create a simple program in python with graphical environment with Tkinter library for transfer all files since a folder chosen by the user with tunnel ssh.
+
+The program should have the following characteristics:
+-Use Secure Shell (SSH) for transfer files.
+-Queries to Database MYSQL.
+-Create new register in database with the data collected in the wizard.
+-Create new registers with filename, checksum, send state of all files of folder(including new files created in the folder until you cancel shipments).
+-Check the integrity of the file sent (linux server), if the file is corrupted resend.
+-No create duplicates of files
+-More information by internal messages 

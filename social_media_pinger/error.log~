@@ -1,0 +1,70 @@
+02/11/2015 06:40:40 PM 
+ ping facebook error: 
+Traceback (most recent call last):
+  File "Social_Media_Pinger.py", line 107, in ping_facebook
+    node = graph.get_object(data['id'])
+KeyError: 'id'
+02/11/2015 06:47:21 PM 
+ ping facebook error: 
+Traceback (most recent call last):
+  File "Social_Media_Pinger.py", line 107, in ping_facebook
+    node = graph.get_object(data['id'])
+KeyError: 'id'
+02/11/2015 06:48:04 PM 
+ ping twitter error: 
+Traceback (most recent call last):
+  File "Social_Media_Pinger.py", line 130, in ping_twitter
+    user = api.get_user(auth, screen_name=handle)
+  File "/home/maikflow/Documents/python/Freelancer-jobs/social_media_pinger/local/lib/python2.7/site-packages/tweepy/binder.py", line 239, in _call
+    return method.execute()
+  File "/home/maikflow/Documents/python/Freelancer-jobs/social_media_pinger/local/lib/python2.7/site-packages/tweepy/binder.py", line 223, in execute
+    raise TweepError(error_msg, resp)
+TweepError: [{u'message': u'Rate limit exceeded', u'code': 88}]
+02/11/2015 07:26:38 PM 
+ ping facebook error: 
+Traceback (most recent call last):
+  File "Social_Media_Pinger.py", line 107, in ping_facebook
+    node = graph.get_object(data['id'])
+KeyError: 'id'
+02/11/2015 07:26:42 PM 
+ ping twitter error: 
+Traceback (most recent call last):
+  File "Social_Media_Pinger.py", line 130, in ping_twitter
+    user = api.get_user(auth, screen_name=handle)
+  File "/home/maikflow/Documents/python/Freelancer-jobs/social_media_pinger/local/lib/python2.7/site-packages/tweepy/binder.py", line 239, in _call
+    return method.execute()
+  File "/home/maikflow/Documents/python/Freelancer-jobs/social_media_pinger/local/lib/python2.7/site-packages/tweepy/binder.py", line 223, in execute
+    raise TweepError(error_msg, resp)
+TweepError: [{u'message': u'Sorry, that page does not exist.', u'code': 34}]
+02/14/2015 09:20:11 AM 
+ ping facebook error: 
+Traceback (most recent call last):
+  File "Social_Media_Pinger.py", line 110, in ping_facebook
+    node = graph.get_object(data['id'])
+KeyError: 'id'
+02/14/2015 09:20:50 AM 
+ ping twitter error: 
+Traceback (most recent call last):
+  File "Social_Media_Pinger.py", line 133, in ping_twitter
+    user = api.get_user(auth, screen_name=handle)
+  File "/home/maikflow/Documents/python/Freelancer-jobs/social_media_pinger/local/lib/python2.7/site-packages/tweepy/binder.py", line 239, in _call
+    return method.execute()
+  File "/home/maikflow/Documents/python/Freelancer-jobs/social_media_pinger/local/lib/python2.7/site-packages/tweepy/binder.py", line 223, in execute
+    raise TweepError(error_msg, resp)
+TweepError: [{u'message': u'Rate limit exceeded', u'code': 88}]
+02/14/2015 09:33:54 AM 
+ ping facebook error: 
+Traceback (most recent call last):
+  File "Social_Media_Pinger.py", line 110, in ping_facebook
+    node = graph.get_object(data['id'])
+KeyError: 'id'
+02/14/2015 09:34:26 AM 
+ ping twitter error: 
+Traceback (most recent call last):
+  File "Social_Media_Pinger.py", line 134, in ping_twitter
+    user = api.get_user(auth, screen_name=handle)
+  File "/home/maikflow/Documents/python/Freelancer-jobs/social_media_pinger/local/lib/python2.7/site-packages/tweepy/binder.py", line 239, in _call
+    return method.execute()
+  File "/home/maikflow/Documents/python/Freelancer-jobs/social_media_pinger/local/lib/python2.7/site-packages/tweepy/binder.py", line 223, in execute
+    raise TweepError(error_msg, resp)
+TweepError: [{u'message': u'Rate limit exceeded', u'code': 88}]

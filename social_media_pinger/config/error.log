@@ -1,0 +1,9 @@
+01/31/2015 05:31:49 PM Warning: 
+01/31/2015 05:31:49 PM facebook error: 
+ 'hello'
+01/31/2015 05:37:48 PM Warning: 
+01/31/2015 05:37:48 PM facebook error: 
+Traceback (most recent call last):
+  File "rd_social_csv.py", line 107, in ping_facebook
+    print 'facebook likes:', node['hello'], i
+KeyError: 'hello'

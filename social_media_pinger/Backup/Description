@@ -1,0 +1,30 @@
+Descripción del proyecto:
+
+A clearly documented python script to monitor FB likes,
+Twitter followers, and Youtube channel subscribers and 
+individual video views.
+
+Details:
+a. Script takes a csv file with four columns: uniq_id, account_handles, 
+social_media (Twitter, FB, Youtube), frequency_of_scraping (No. of times/hr).
+b. It handles errors gracefully - server not available etc.
+- Tries again after some time.
+- It writes errors to a log file - kind of error, time_stamp.
+c. Uses the Twitter, FB, or Youtube API where available.
+d. Outputs a csv that adds to the input_file, a column for each time. 
+
+
+To do:
+- Error Handling
+- Log the error to a file + add more details
+- Expand Readme file
+- Script that user must run, and what other scripts and libraries it depends on (stuff like facebook-sdk, tweepy, httplib2, google-api-python-client etc.)
+- Script options. For instance, how to run it if you only want only account information
+- Script input/output details: Script requires XXX.csv and by defauly appends to it
+- Add YouTube Videos Views
+- Send a list of statistics that can be extracted from Twitter, Youtube, and FB
+- Clean the directory to only have useful files:
+- I should be able to work with just our new scripts + config files. (But good to keep directions in Readme.)
+- scrape_data columns don't seem right to me:
+- In the input file, we want three columns that take twitter, Youtube, and FB handles. IDs are too obscure. So for Hillary Clinton, FB account maybe: Hillary2016, Twitter: hillaryclinton, and Youtube: there doesn't seem to be any so leave it blank
+- Put all the config/secrets files in the config folder.

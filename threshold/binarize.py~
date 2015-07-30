@@ -1,0 +1,72 @@
+import cv2
+import os
+from time import sleep
+
+def binarize_image(src):
+    """
+    Recibe una imagen como arreglo, y le aplica 
+    el metodo de binarizacion (blanco y negro)
+    """
+
+    #src = cv2.imread(image)
+    #src = cv2.resize(src, (0,0), fx=0.3, fy=0.3)
+    cv2.imshow('preview',src)
+    cv2.waitKey(0)
+    gray = cv2.cvtColor(src, cv2.COLOR_BGR2GRAY)
+    print type(gray)
+    (thresh, threshed_image) = cv2.threshold(gray, 128, 255, cv2.THRESH_BINARY_INV | cv2.THRESH_OTSU)
+
+    #Esta segunda binarizacion sirve para utilizar el limite obtenido anteriormente
+    (thresh, threshed_image) = cv2.threshold(gray, thresh, 255, cv2.THRESH_BINARY_INV | cv2.THRESH_OTSU)
+    print thresh
+    cv2.imshow('preview',threshed_image)
+    cv2.waitKey(0)
+    cv2.imwrite('muestra.jpg',threshed_image) 
+
+def detect_motion(t0, t1, t2):
+   
+    d1 = cv2.absdiff(t2, t1)
+    d2 = cv2.absdiff(t1, t0)
+    return cv2.bitwise_and(d1, d2)
+
+def get_webcam():
+    
+    cv2.namedWindow("preview")
+    vc = cv2.VideoCapture(0)
+
+    if vc.isOpened(): 
+        rval, frame = vc.read()
+        # Read three images first:
+        t_minus = cv2.cvtColor(vc.read()[1], cv2.COLOR_RGB2GRAY)
+        t = cv2.cvtColor(vc.read()[1], cv2.COLOR_RGB2GRAY)
+        t_plus = cv2.cvtColor(vc.read()[1], cv2.COLOR_RGB2GRAY)
+        mean = cv2.GaussianBlur(detect_motion(t_minus, t, t_plus), (5, 5), 0).mean()
+    else:
+        rval = False
+
+    while rval:
+        img = detect_motion(t_minus, t, t_plus)
+       # img = cv2.threshold(img, 128, 255, cv2.THRESH_BINARY_INV | cv2.THRESH_OTSU)[1]
+        img = cv2.GaussianBlur(img, (5, 5), 0)
+        cv2.imshow("preview", img)
+       # print movement(img)
+        print img.mean(), mean
+        if img.mean()>mean+0.2:
+            sleep(2)
+            binarize_image(vc.read()[1])
+            print 'hay movimiento'
+        # Lee la imagen proxima
+        t_minus = t
+        t = t_plus
+        t_plus = cv2.cvtColor(vc.read()[1], cv2.COLOR_RGB2GRAY)
+
+        rval, frame = vc.read()
+        key = cv2.waitKey(20)
+        print key
+        if key != -1: # exit on anykey 
+            break
+    cv2.destroyWindow("preview")
+
+if __name__ == "__main__":
+    source = 'dosdedos.jpg'
+    get_webcam()
