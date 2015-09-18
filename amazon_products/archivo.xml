@@ -1,0 +1,408 @@
+<Item xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+  <ASIN>B002D48R5G</ASIN>
+  <DetailPageURL>http://www.amazon.com/Avene-Soothing-contour-cream-Package/dp/B002D48R5G%3FSubscriptionId%3DAKIAJCUWKAFN3T5XUAKA%26tag%3D3337-4741-8253%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB002D48R5G</DetailPageURL>
+  <ItemLinks>
+    <ItemLink>
+      <Description>Technical Details</Description>
+      <URL>http://www.amazon.com/Avene-Soothing-contour-cream-Package/dp/tech-data/B002D48R5G%3FSubscriptionId%3DAKIAJCUWKAFN3T5XUAKA%26tag%3D3337-4741-8253%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB002D48R5G</URL>
+    </ItemLink>
+    <ItemLink>
+      <Description>Add To Baby Registry</Description>
+      <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB002D48R5G%26SubscriptionId%3DAKIAJCUWKAFN3T5XUAKA%26tag%3D3337-4741-8253%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB002D48R5G</URL>
+    </ItemLink>
+    <ItemLink>
+      <Description>Add To Wedding Registry</Description>
+      <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB002D48R5G%26SubscriptionId%3DAKIAJCUWKAFN3T5XUAKA%26tag%3D3337-4741-8253%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB002D48R5G</URL>
+    </ItemLink>
+    <ItemLink>
+      <Description>Add To Wishlist</Description>
+      <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB002D48R5G%26SubscriptionId%3DAKIAJCUWKAFN3T5XUAKA%26tag%3D3337-4741-8253%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB002D48R5G</URL>
+    </ItemLink>
+    <ItemLink>
+      <Description>Tell A Friend</Description>
+      <URL>http://www.amazon.com/gp/pdp/taf/B002D48R5G%3FSubscriptionId%3DAKIAJCUWKAFN3T5XUAKA%26tag%3D3337-4741-8253%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB002D48R5G</URL>
+    </ItemLink>
+    <ItemLink>
+      <Description>All Customer Reviews</Description>
+      <URL>http://www.amazon.com/review/product/B002D48R5G%3FSubscriptionId%3DAKIAJCUWKAFN3T5XUAKA%26tag%3D3337-4741-8253%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB002D48R5G</URL>
+    </ItemLink>
+    <ItemLink>
+      <Description>All Offers</Description>
+      <URL>http://www.amazon.com/gp/offer-listing/B002D48R5G%3FSubscriptionId%3DAKIAJCUWKAFN3T5XUAKA%26tag%3D3337-4741-8253%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB002D48R5G</URL>
+    </ItemLink>
+  </ItemLinks>
+  <SalesRank>9340</SalesRank>
+  <SmallImage>
+    <URL>http://ecx.images-amazon.com/images/I/3136D0qCTiL._SL75_.jpg</URL>
+    <Height Units="pixels">75</Height>
+    <Width Units="pixels">21</Width>
+  </SmallImage>
+  <MediumImage>
+    <URL>http://ecx.images-amazon.com/images/I/3136D0qCTiL._SL160_.jpg</URL>
+    <Height Units="pixels">160</Height>
+    <Width Units="pixels">45</Width>
+  </MediumImage>
+  <LargeImage>
+    <URL>http://ecx.images-amazon.com/images/I/3136D0qCTiL.jpg</URL>
+    <Height Units="pixels">500</Height>
+    <Width Units="pixels">142</Width>
+  </LargeImage>
+  <ImageSets>
+    <ImageSet Category="variant">
+      <SwatchImage>
+        <URL>http://ecx.images-amazon.com/images/I/51bKiz26zoL._SL30_.jpg</URL>
+        <Height Units="pixels">30</Height>
+        <Width Units="pixels">22</Width>
+      </SwatchImage>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/51bKiz26zoL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">54</Width>
+      </SmallImage>
+      <ThumbnailImage>
+        <URL>http://ecx.images-amazon.com/images/I/51bKiz26zoL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">54</Width>
+      </ThumbnailImage>
+      <TinyImage>
+        <URL>http://ecx.images-amazon.com/images/I/51bKiz26zoL._SL110_.jpg</URL>
+        <Height Units="pixels">110</Height>
+        <Width Units="pixels">80</Width>
+      </TinyImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/51bKiz26zoL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">116</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/51bKiz26zoL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">363</Width>
+      </LargeImage>
+    </ImageSet>
+    <ImageSet Category="variant">
+      <SwatchImage>
+        <URL>http://ecx.images-amazon.com/images/I/319WtQGHzwL._SL30_.jpg</URL>
+        <Height Units="pixels">30</Height>
+        <Width Units="pixels">8</Width>
+      </SwatchImage>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/319WtQGHzwL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">19</Width>
+      </SmallImage>
+      <ThumbnailImage>
+        <URL>http://ecx.images-amazon.com/images/I/319WtQGHzwL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">19</Width>
+      </ThumbnailImage>
+      <TinyImage>
+        <URL>http://ecx.images-amazon.com/images/I/319WtQGHzwL._SL110_.jpg</URL>
+        <Height Units="pixels">110</Height>
+        <Width Units="pixels">28</Width>
+      </TinyImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/319WtQGHzwL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">40</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/319WtQGHzwL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">126</Width>
+      </LargeImage>
+    </ImageSet>
+    <ImageSet Category="variant">
+      <SwatchImage>
+        <URL>http://ecx.images-amazon.com/images/I/41Yyep13e1L._SL30_.jpg</URL>
+        <Height Units="pixels">30</Height>
+        <Width Units="pixels">9</Width>
+      </SwatchImage>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/41Yyep13e1L._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">24</Width>
+      </SmallImage>
+      <ThumbnailImage>
+        <URL>http://ecx.images-amazon.com/images/I/41Yyep13e1L._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">24</Width>
+      </ThumbnailImage>
+      <TinyImage>
+        <URL>http://ecx.images-amazon.com/images/I/41Yyep13e1L._SL110_.jpg</URL>
+        <Height Units="pixels">110</Height>
+        <Width Units="pixels">35</Width>
+      </TinyImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/41Yyep13e1L._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">51</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/41Yyep13e1L.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">158</Width>
+      </LargeImage>
+    </ImageSet>
+    <ImageSet Category="variant">
+      <SwatchImage>
+        <URL>http://ecx.images-amazon.com/images/I/412Bnt8T1dL._SL30_.jpg</URL>
+        <Height Units="pixels">30</Height>
+        <Width Units="pixels">7</Width>
+      </SwatchImage>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/412Bnt8T1dL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">18</Width>
+      </SmallImage>
+      <ThumbnailImage>
+        <URL>http://ecx.images-amazon.com/images/I/412Bnt8T1dL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">18</Width>
+      </ThumbnailImage>
+      <TinyImage>
+        <URL>http://ecx.images-amazon.com/images/I/412Bnt8T1dL._SL110_.jpg</URL>
+        <Height Units="pixels">110</Height>
+        <Width Units="pixels">27</Width>
+      </TinyImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/412Bnt8T1dL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">39</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/412Bnt8T1dL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">123</Width>
+      </LargeImage>
+    </ImageSet>
+    <ImageSet Category="variant">
+      <SwatchImage>
+        <URL>http://ecx.images-amazon.com/images/I/31Yro9B4clL._SL30_.jpg</URL>
+        <Height Units="pixels">30</Height>
+        <Width Units="pixels">23</Width>
+      </SwatchImage>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/31Yro9B4clL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">56</Width>
+      </SmallImage>
+      <ThumbnailImage>
+        <URL>http://ecx.images-amazon.com/images/I/31Yro9B4clL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">56</Width>
+      </ThumbnailImage>
+      <TinyImage>
+        <URL>http://ecx.images-amazon.com/images/I/31Yro9B4clL._SL110_.jpg</URL>
+        <Height Units="pixels">110</Height>
+        <Width Units="pixels">83</Width>
+      </TinyImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/31Yro9B4clL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">120</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/31Yro9B4clL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">376</Width>
+      </LargeImage>
+    </ImageSet>
+    <ImageSet Category="primary">
+      <SwatchImage>
+        <URL>http://ecx.images-amazon.com/images/I/3136D0qCTiL._SL30_.jpg</URL>
+        <Height Units="pixels">30</Height>
+        <Width Units="pixels">9</Width>
+      </SwatchImage>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/3136D0qCTiL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">21</Width>
+      </SmallImage>
+      <ThumbnailImage>
+        <URL>http://ecx.images-amazon.com/images/I/3136D0qCTiL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">21</Width>
+      </ThumbnailImage>
+      <TinyImage>
+        <URL>http://ecx.images-amazon.com/images/I/3136D0qCTiL._SL110_.jpg</URL>
+        <Height Units="pixels">110</Height>
+        <Width Units="pixels">31</Width>
+      </TinyImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/3136D0qCTiL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">45</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/3136D0qCTiL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">142</Width>
+      </LargeImage>
+    </ImageSet>
+  </ImageSets>
+  <ItemAttributes>
+    <Binding>Health and Beauty</Binding>
+    <Brand>Avene</Brand>
+    <CatalogNumberList>
+      <CatalogNumberListElement>838760003562</CatalogNumberListElement>
+      <CatalogNumberListElement>APF-165</CatalogNumberListElement>
+      <CatalogNumberListElement>APF-013</CatalogNumberListElement>
+      <CatalogNumberListElement>Avene_soothing_eye_contour_cream</CatalogNumberListElement>
+    </CatalogNumberList>
+    <EAN>0838760003562</EAN>
+    <EANList>
+      <EANListElement>0838760003562</EANListElement>
+      <EANListElement>3282779051361</EANListElement>
+      <EANListElement>0885225026109</EANListElement>
+      <EANListElement>0885545204324</EANListElement>
+      <EANListElement>0885225010139</EANListElement>
+    </EANList>
+    <Feature>Formulated with Av&#232;ne Thermal spring water</Feature>
+    <Feature>Recommended by dermatologists worldwide</Feature>
+    <ItemDimensions>
+      <Height Units="hundredths-inches">400</Height>
+      <Length Units="hundredths-inches">600</Length>
+      <Weight Units="ounces">0.34</Weight>
+      <Width Units="hundredths-inches">500</Width>
+    </ItemDimensions>
+    <Label>Avene</Label>
+    <ListPrice>
+      <Amount>2800</Amount>
+      <CurrencyCode>USD</CurrencyCode>
+      <FormattedPrice>$28.00</FormattedPrice>
+    </ListPrice>
+    <Manufacturer>Avene</Manufacturer>
+    <Model>Setaf_43</Model>
+    <MPN>C05136</MPN>
+    <NumberOfItems>1</NumberOfItems>
+    <PackageDimensions>
+      <Height Units="hundredths-inches">80</Height>
+      <Length Units="hundredths-inches">390</Length>
+      <Weight Units="hundredths-pounds">2</Weight>
+      <Width Units="hundredths-inches">130</Width>
+    </PackageDimensions>
+    <PackageQuantity>1</PackageQuantity>
+    <PartNumber>C05136</PartNumber>
+    <ProductGroup>Beauty</ProductGroup>
+    <ProductTypeName>BEAUTY</ProductTypeName>
+    <Publisher>Avene</Publisher>
+    <Size>.34 oz</Size>
+    <Studio>Avene</Studio>
+    <Title>Avene Soothing eye contour cream, 0.33 Ounce Package</Title>
+    <UPC>885545204324</UPC>
+    <UPCList>
+      <UPCListElement>885545204324</UPCListElement>
+      <UPCListElement>838760003562</UPCListElement>
+      <UPCListElement>885225010139</UPCListElement>
+      <UPCListElement>885225026109</UPCListElement>
+    </UPCList>
+  </ItemAttributes>
+  <OfferSummary>
+    <LowestNewPrice>
+      <Amount>1739</Amount>
+      <CurrencyCode>USD</CurrencyCode>
+      <FormattedPrice>$17.39</FormattedPrice>
+    </LowestNewPrice>
+    <TotalNew>38</TotalNew>
+    <TotalUsed>0</TotalUsed>
+    <TotalCollectible>0</TotalCollectible>
+    <TotalRefurbished>0</TotalRefurbished>
+  </OfferSummary>
+  <Offers>
+    <TotalOffers>1</TotalOffers>
+    <TotalOfferPages>1</TotalOfferPages>
+    <MoreOffersUrl>http://www.amazon.com/gp/offer-listing/B002D48R5G%3FSubscriptionId%3DAKIAJCUWKAFN3T5XUAKA%26tag%3D3337-4741-8253%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB002D48R5G</MoreOffersUrl>
+    <Offer>
+      <OfferAttributes>
+        <Condition>New</Condition>
+      </OfferAttributes>
+      <OfferListing>
+        <OfferListingId>SlemAmvoKfcMMABA5TlDqacuXZ%2BFrs7%2FvsktLTYlwXSYPbAfdiAm1xFakXsdJ6F2Iivx6MTl3S4XJnILQRTHbJ%2BiIxQERf4REZvOm1d7E3tnFsp80TcxdvEEE5qEJL3DfQB2CPLtqvCVYp4l2D0P1Q%3D%3D</OfferListingId>
+        <Price>
+          <Amount>1774</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$17.74</FormattedPrice>
+        </Price>
+        <AmountSaved>
+          <Amount>1026</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$10.26</FormattedPrice>
+        </AmountSaved>
+        <PercentageSaved>37</PercentageSaved>
+        <Availability>Usually ships in 24 hours</Availability>
+        <AvailabilityAttributes>
+          <AvailabilityType>now</AvailabilityType>
+          <MinimumHours>0</MinimumHours>
+          <MaximumHours>0</MaximumHours>
+        </AvailabilityAttributes>
+        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+        <IsEligibleForPrime>1</IsEligibleForPrime>
+      </OfferListing>
+    </Offer>
+  </Offers>
+  <CustomerReviews>
+    <IFrameURL>http://www.amazon.com/reviews/iframe?akid=AKIAJCUWKAFN3T5XUAKA&amp;alinkCode=xm2&amp;asin=B002D48R5G&amp;atag=3337-4741-8253&amp;exp=2015-09-04T16%3A37%3A39Z&amp;v=2&amp;sig=ydIxbp%2B%2FY4McnB8Kib4c2Ld8OB7LxlOpMxfrzazTBF8%3D</IFrameURL>
+    <HasReviews>true</HasReviews>
+  </CustomerReviews>
+  <EditorialReviews>
+    <EditorialReview>
+      <Source>Product Description</Source>
+      <Content>Light weight eye cream relieves under-eye puffiness and moisturizes the eye area.Indication Sensitive eyes Stressed, fatigued eyes Under-eye puffiness  --------------------------------------------------------------------------------   Skin type All skin t</Content>
+      <IsLinkSuppressed>0</IsLinkSuppressed>
+    </EditorialReview>
+  </EditorialReviews>
+  <SimilarProducts>
+    <SimilarProduct>
+      <ASIN>B007PCB5OQ</ASIN>
+      <Title>Avene Skin Recovery Cream, 1.69 Ounce</Title>
+    </SimilarProduct>
+    <SimilarProduct>
+      <ASIN>B000Q31IVG</ASIN>
+      <Title>Avene Hydrance Optimale Light Hydrating Cream 1.35 fl oz.</Title>
+    </SimilarProduct>
+    <SimilarProduct>
+      <ASIN>B00913VHXQ</ASIN>
+      <Title>Avene Retrinal Eyes 0.5oz</Title>
+    </SimilarProduct>
+    <SimilarProduct>
+      <ASIN>B002D48QVQ</ASIN>
+      <Title>Avene Tolerance Extreme Anti-irritating Soothing Cream, 1.69-Fl Oz,  Package</Title>
+    </SimilarProduct>
+    <SimilarProduct>
+      <ASIN>B00JMQXD3O</ASIN>
+      <Title>Avene Eau Thermale Hydrance Optimal Hydrating Serum 30ml/1.01oz</Title>
+    </SimilarProduct>
+  </SimilarProducts>
+  <BrowseNodes>
+    <BrowseNode>
+      <BrowseNodeId>7730090011</BrowseNodeId>
+      <Name>Creams</Name>
+      <Ancestors>
+        <BrowseNode>
+          <BrowseNodeId>11061941</BrowseNodeId>
+          <Name>Eyes</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>11060451</BrowseNodeId>
+              <Name>Skin Care</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>11055981</BrowseNodeId>
+                  <Name>Products</Name>
+                  <IsCategoryRoot>1</IsCategoryRoot>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>3760911</BrowseNodeId>
+                      <Name>Beauty</Name>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+      </Ancestors>
+    </BrowseNode>
+  </BrowseNodes>
+</Item>

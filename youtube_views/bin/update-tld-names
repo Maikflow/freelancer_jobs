@@ -1,0 +1,6 @@
+#!/home/maikflow/python/Freelancer-jobs/youtube_views/bin/python
+
+from tld.commands.update_tld_names import main
+
+if __name__ == "__main__":
+    main()
